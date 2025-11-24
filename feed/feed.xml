@@ -5,11 +5,22 @@
   <subtitle>记录小乐成长过程中的点点滴滴。</subtitle>
   <link href="https://luke.theyan.gs/feed/feed.xml" rel="self" />
   <link href="https://luke.theyan.gs/" />
-  <updated>2025-11-16T00:00:00Z</updated>
+  <updated>2025-11-24T00:00:00Z</updated>
   <id>https://luke.theyan.gs/</id>
   <author>
     <name>乐爸</name>
   </author>
+  <entry>
+    <title>AI(Nano Banana) 给乐乐生成的单人照</title>
+    <link href="https://luke.theyan.gs/blog/AI(Nano%20Banana)%20%E7%BB%99%E4%B9%90%E4%B9%90%E7%94%9F%E6%88%90%E7%9A%84%E5%8D%95%E4%BA%BA%E7%85%A7/" />
+    <updated>2025-11-24T00:00:00Z</updated>
+    <id>https://luke.theyan.gs/blog/AI(Nano%20Banana)%20%E7%BB%99%E4%B9%90%E4%B9%90%E7%94%9F%E6%88%90%E7%9A%84%E5%8D%95%E4%BA%BA%E7%85%A7/</id>
+    <content type="html">&lt;p&gt;这是作为参考的照片：&lt;/p&gt;
+&lt;p&gt;&lt;picture&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;/blog/AI(Nano Banana) 给乐乐生成的单人照/4hrVfLrLcM-1280.webp 1280w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://luke.theyan.gs/blog/AI(Nano%20Banana)%20%E7%BB%99%E4%B9%90%E4%B9%90%E7%94%9F%E6%88%90%E7%9A%84%E5%8D%95%E4%BA%BA%E7%85%A7/4hrVfLrLcM-1280.jpeg&quot; alt=&quot;参考的照片&quot; width=&quot;1280&quot; height=&quot;1280&quot;&gt;&lt;/picture&gt;&lt;/p&gt;
+&lt;p&gt;以下是职业照：&lt;/p&gt;
+&lt;p&gt;![大厨](&amp;quot;Generated Image November 24, 2025 - 11_53AM.png&amp;quot;)&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>乐乐给爸爸推荐的工作</title>
     <link href="https://luke.theyan.gs/blog/%E6%9D%A5%E8%87%AA%E4%B9%90%E4%B9%90%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%8E%A8%E8%8D%90/" />
@@ -102,15 +113,6 @@
     <id>https://luke.theyan.gs/blog/%E6%B2%A1%E6%86%8B%E6%AD%BB%E7%9A%84%E7%8E%A9%E5%85%B7%E4%BB%AC%EF%BC%88%E4%B8%83%EF%BC%89%20de4d8417197a4111a1d4ecb99804b5f9/</id>
     <content type="html">&lt;h1 id=&quot;&quot;&gt;没憋死的玩具们（七）&lt;/h1&gt;
 &lt;p&gt;&lt;picture&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;/blog/没憋死的玩具们（七） de4d8417197a4111a1d4ecb99804b5f9/oEd6psbvqI-4032.webp 4032w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://luke.theyan.gs/blog/%E6%B2%A1%E6%86%8B%E6%AD%BB%E7%9A%84%E7%8E%A9%E5%85%B7%E4%BB%AC%EF%BC%88%E4%B8%83%EF%BC%89%20de4d8417197a4111a1d4ecb99804b5f9/oEd6psbvqI-4032.jpeg&quot; alt=&quot;&quot; width=&quot;4032&quot; height=&quot;3024&quot;&gt;&lt;/picture&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>乐乐的“喜欢”和“爱”</title>
-    <link href="https://luke.theyan.gs/blog/%E4%B9%90%E4%B9%90%E7%9A%84%E2%80%9C%E5%96%9C%E6%AC%A2%E2%80%9D%E5%92%8C%E2%80%9C%E7%88%B1%E2%80%9D%20bd9a0f166794469e9611cea50d2b8719/" />
-    <updated>2020-11-27T00:00:00Z</updated>
-    <id>https://luke.theyan.gs/blog/%E4%B9%90%E4%B9%90%E7%9A%84%E2%80%9C%E5%96%9C%E6%AC%A2%E2%80%9D%E5%92%8C%E2%80%9C%E7%88%B1%E2%80%9D%20bd9a0f166794469e9611cea50d2b8719/</id>
-    <content type="html">&lt;h1 id=&quot;&quot;&gt;乐乐的“喜欢”和“爱”&lt;/h1&gt;
-&lt;p&gt;昨天乐乐对妈妈说，乐乐爱妈妈但是更喜欢爸爸。于是妈妈问乐乐“爱”和“喜欢”有什么区别呢？乐乐貌似没答上来。乐乐的意思其实我大概明白，其实就是一个关系远近的说法。“爱”比“喜欢”代表着更近的关系。&lt;/p&gt;
 </content>
   </entry>
 </feed>
